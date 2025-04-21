@@ -53,7 +53,7 @@ We use the **OLIVES** dataset, consisting of over 78,000 OCT scans with ~9,400 a
 
 ## Resources
 
-- 📄 [Paper (PDF)](https://github.com/ashwinadarsh/8803-Biomarker-Detection-in-OCT/blob/main/oct%20biomarker%20detection.pdf)  
+- 📄 [Paper (PDF)](https://github.com/ashwinadarsh/8803_Biomarker_Detection_in_OCT/blob/main/oct_biomarker_detection.pdf)  
 - 📊 [Colab Notebook](https://colab.research.google.com/drive/1Yp2B4DJNirkTQC-1uybRm1PvwKMhtCbs?usp=sharing)  
 - 📁 [GitHub Repository](https://github.com/ashwinadarsh/8803-Biomarker-Detection-in-OCT)
 
