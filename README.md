@@ -2,8 +2,6 @@
 
 Please refer to the pdf if the ipynb fails to load.
 
-Here's a clean and concise `README.md` for your GitHub repository:
-
 ---
 
 # Multi-label Biomarker Detection in OCT Scans
